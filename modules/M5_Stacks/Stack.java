@@ -1,5 +1,6 @@
 package M5_Stacks;
 import M4_LinkedLists.LinkedList;
+import org.w3c.dom.ls.LSOutput;
 
 import java.io.*;
 
@@ -15,21 +16,9 @@ public class Stack<E> implements Serializable, Cloneable {
      * Adds the element to the top of the stack (head of the list)
      **/
     public void push(E element) {
-        LinkedList<E> newList = new LinkedList<>();
-
-        if (isEmpty()){
-            newList.add(0, element);
-        }
-        else {
-            newList.add(0, element);
-
-            for (int i = 0; i < list.size(); i++){
-                newList.add((E) list.nodeAt(i));
-            }
-
-            list = newList;
-        }
+        list.add(0, element);
     }
+
     /**
      * Removes and returns the top element from the stack (head of the list)
      */
@@ -66,13 +55,17 @@ public class Stack<E> implements Serializable, Cloneable {
     public Stack<E> reverse() throws CloneNotSupportedException {
         Stack<E> reversedStack = new Stack<>();
         Stack<E> tempStack = this.clone();
-        for (int i = 0; i < tempStack.size(); i++) {
-            reversedStack.push(tempStack.pop());
+//
+//        for (int i = 0; i < tempStack.size(); i++) {
+//            reversedStack.push(tempStack.pop());
+//        }
+
+        for (E e: this.list) {
+            reversedStack.push(e);
         }
 
         return reversedStack;
     }
-
 
     @SuppressWarnings("unchecked")
     @Override
@@ -81,7 +74,6 @@ public class Stack<E> implements Serializable, Cloneable {
         clone.list = this.list.clone();
         return clone;
     }
-
 
 
     public static void main(String[] args) throws CloneNotSupportedException {
@@ -99,19 +91,22 @@ public class Stack<E> implements Serializable, Cloneable {
             Stack<String> stack = new Stack<>();
             for (String s : elements)
                 stack.push(s);
+            Stack <String> reversed = stack.clone().reverse();
             System.out.println(stack);
+            System.out.println(reversed);
+            System.out.println(reversed.size());
+
             System.out.println("Peek: " + stack.peek());
-            String original = "";
-            while (!stack.isEmpty()) {
-                original = stack.pop() + original;
-            }
-            System.out.println("Original: " + original);
-        } catch (IOException e) {
+            System.out.println("Original: " + stack);
+            System.out.println("Reversed: " + reversed);
+        } catch (NullPointerException | IOException e) {
             e.printStackTrace();
         } catch (ClassNotFoundException c) {
-        System.out.println("Stack class not found");
-        c.printStackTrace();
-        return;
+            System.out.println("Stack class not found");
+            c.printStackTrace();
+
+
+        }
     }
-    }
+
 }

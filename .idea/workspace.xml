@@ -2,26 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0a01116-a7ea-4552-8be5-388882aacded" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cs260.QueueTips/cs260/queueTips/assets/SSN_NAME.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cs260.QueueTips/cs260/queueTips/assets/SSN_NAME.csv:Zone.Identifier" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/cs260.QueueTips/cs260/queueTips/assets/stack.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cs260.QueueTips.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cs260.QueueTips.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/mod0/Lock.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M0_Introduction/Lock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/mod0/LockLifter.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M0_Introduction/LockLifter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/mod1/Position3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M1_OOP/Position3D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/mod2/NewBagExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M2_Arrays/NewBagExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/mod2/Position3DArrayBag.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M2_Arrays/Position3DArrayBag.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/mod2/Position3DArrayBagEnhanced.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M2_Arrays/Position3DArrayBagEnhanced.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/mod2/TheBagExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M2_Arrays/TheBagExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/mod3/ArrayBag.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M3_Searching/ArrayBag.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/mod3/Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M3_Searching/Table.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/mod4/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M4_LinkedLists/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/mod5/ArrayStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M5_Stacks/ArrayStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/mod5/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M5_Stacks/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/M4_LinkedLists/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M4_LinkedLists/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/M5_Stacks/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M5_Stacks/Stack.java" afterDir="false" />
+    </list>
+    <list id="31cdc1cb-57fd-45bc-9d77-507589f91623" name="Changes by Ethan Quispe" comment="">
+      <change beforePath="$PROJECT_DIR$/modules/M5_Stacks/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M5_Stacks/Stack.java" afterDir="false" />
+    </list>
+    <list id="294af2d1-a07b-4fd9-8a3c-2c9426f19ae4" name="Changes by selisine" comment="">
+      <change beforePath="$PROJECT_DIR$/modules/M5_Stacks/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M5_Stacks/Stack.java" afterDir="false" />
+    </list>
+    <list id="fb60ae71-d16f-489b-a12f-e5878e81edaf" name="Changes by sethe" comment="">
+      <change beforePath="$PROJECT_DIR$/modules/M5_Stacks/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M5_Stacks/Stack.java" afterDir="false" />
+    </list>
+    <list id="f184eebb-b833-4137-bd83-fb5c56617caa" name="Changes by tjric" comment="">
+      <change beforePath="$PROJECT_DIR$/modules/M4_LinkedLists/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M4_LinkedLists/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/M5_Stacks/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M5_Stacks/Stack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +26,33 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/modules/M4_LinkedLists/LinkedList.java">
+      <ranges>
+        <range start1="112" end1="113" start2="112" end2="112" changelist="c0a01116-a7ea-4552-8be5-388882aacded" />
+        <range start1="129" end1="130" start2="128" end2="129" changelist="f184eebb-b833-4137-bd83-fb5c56617caa" />
+        <range start1="182" end1="182" start2="181" end2="182" changelist="f184eebb-b833-4137-bd83-fb5c56617caa" />
+      </ranges>
+    </file>
+    <file path="$PROJECT_DIR$/modules/M5_Stacks/Stack.java">
+      <ranges>
+        <range start1="2" end1="2" start2="2" end2="3" changelist="31cdc1cb-57fd-45bc-9d77-507589f91623" />
+        <range start1="17" end1="31" start2="18" end2="19" changelist="c0a01116-a7ea-4552-8be5-388882aacded" />
+        <range start1="32" end1="32" start2="20" end2="21" changelist="c0a01116-a7ea-4552-8be5-388882aacded" />
+        <range start1="68" end1="70" start2="57" end2="64" changelist="c0a01116-a7ea-4552-8be5-388882aacded" />
+        <range start1="74" end1="75" start2="68" end2="68" changelist="294af2d1-a07b-4fd9-8a3c-2c9426f19ae4" />
+        <range start1="84" end1="85" start2="77" end2="77" changelist="fb60ae71-d16f-489b-a12f-e5878e81edaf" />
+        <range start1="101" end1="101" start2="93" end2="94" changelist="f184eebb-b833-4137-bd83-fb5c56617caa" />
+        <range start1="102" end1="102" start2="95" end2="98" changelist="f184eebb-b833-4137-bd83-fb5c56617caa" />
+        <range start1="103" end1="109" start2="99" end2="102" changelist="c0a01116-a7ea-4552-8be5-388882aacded" />
+        <range start1="111" end1="115" start2="104" end2="109" changelist="c0a01116-a7ea-4552-8be5-388882aacded" />
+        <range start1="116" end1="116" start2="110" end2="111" changelist="31cdc1cb-57fd-45bc-9d77-507589f91623" />
+      </ranges>
+    </file>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -44,7 +67,7 @@
   "keyToString": {
     "Application.ArrayStack.executor": "Run",
     "Application.LinkedList.executor": "Run",
-    "Application.Stack.executor": "Run",
+    "Application.Stack.executor": "Debug",
     "Application.TheBagExample.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -86,11 +109,39 @@
       <workItem from="1772571591247" duration="49000" />
       <workItem from="1772571651703" duration="1031000" />
       <workItem from="1772683094658" duration="276000" />
-      <workItem from="1772683392011" duration="320000" />
+      <workItem from="1772683392011" duration="2933000" />
+      <workItem from="1772743011332" duration="3040000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/modules/M5_Stacks/Stack.java</url>
+          <line>54</line>
+          <properties class="M5_Stacks.Stack" method="reverse">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="e.equals('E')" />
+          <url>file://$PROJECT_DIR$/modules/M5_Stacks/Stack.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="M4_LinkedLists.LinkedList" memberName="head" />
+        <PinnedItemInfo parentTag="M4_LinkedLists.LinkedList" memberName="size" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
 </project>

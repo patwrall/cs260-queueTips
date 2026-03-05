@@ -110,7 +110,6 @@ public class LinkedList<E> implements Cloneable, Iterable<E>, Serializable {
 // For empty list, set head and tail to the new node
         if (head == null) {
             head = new Node<E>(element, null);
-            tail = head;
         } else {
             tail.next = new Node<E>(element, null);
             tail = tail.next;
@@ -127,7 +126,7 @@ public class LinkedList<E> implements Cloneable, Iterable<E>, Serializable {
         if (index == 0) {
             Node<E> temp = head;
             head = new Node<>(data, temp);
-
+            if (tail == null) tail = head;
         } else {
             Node<E> prev = nodeAt(index - 1);
             prev.next = new Node<>(data, prev.next.next);
@@ -180,6 +179,7 @@ public class LinkedList<E> implements Cloneable, Iterable<E>, Serializable {
         LinkedList<E> clone = (LinkedList<E>) super.clone();
         clone.head = this.head;
         clone.tail = this.tail;
+        clone.size = this.size;
         return clone;
     }
     /**
