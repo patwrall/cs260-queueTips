@@ -5,8 +5,8 @@
    Ethan Quispe - quiseh01@pfw.edu
    Seth Pfister - pfissg01@pfw.edu
 */
-package cs260.queueTips.mod2;
-import cs260.queueTips.mod1.Position3D;
+package M2_Arrays;
+import M1_OOP.Position3D;
 // Invariant of the IntArrayBag class:
 // 1. The number of elements in the bag is in the instance variable
 // manyItems, which is no more than data.length.

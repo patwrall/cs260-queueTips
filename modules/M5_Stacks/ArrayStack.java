@@ -1,4 +1,4 @@
-package cs260.queueTips.mod5;
+package M5_Stacks;
 
 /*
     Ellie Pike - pikeas01@pfw.edu

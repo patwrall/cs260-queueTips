@@ -1,4 +1,4 @@
-package cs260.queueTips.mod4;
+package M4_LinkedLists;
 
 /******************************************************************************
  * A LinkedList<E> provides a generic singly linked list implementation.
@@ -6,8 +6,8 @@ package cs260.queueTips.mod4;
  ******************************************************************************/
 
 import java.io.Serial;
+import java.io.Serializable;
 import java.util.Iterator;
-import java.util.ListIterator;
 import java.util.NoSuchElementException;
 
 /** Part C
@@ -26,7 +26,7 @@ import java.util.NoSuchElementException;
  *  the target is greater than the middle index, traverse from the tail. If less than the
  *  middle index, traverse from the head. If the target is the middle, do either.
  */
-public class LinkedList<E> implements Cloneable, Iterable<E> {
+public class LinkedList<E> implements Cloneable, Iterable<E>, Serializable {
     @Serial
     private static final long serialVersionUID = 1L;
     private int size;
@@ -34,7 +34,7 @@ public class LinkedList<E> implements Cloneable, Iterable<E> {
     private Node<E> tail;
 
 
-    class Node<E> {
+    class Node<E> implements Serializable {
         // Invariant of the Node class:
         // 1. Each node has one reference to an E Object, stored in the instance
         // variable data.
@@ -42,6 +42,8 @@ public class LinkedList<E> implements Cloneable, Iterable<E> {
         // Otherwise, the link is a reference to the next list node.
         private E data;
         private Node<E> next;
+        @Serial
+        private static final long serialVersionUID = 1L;
 
 
         /**

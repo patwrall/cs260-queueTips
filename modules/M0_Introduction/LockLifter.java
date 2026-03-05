@@ -4,7 +4,7 @@
     This class handles the manipulation of the Lock and the overall game logic.
 */
 
-package cs260.queueTips.mod0;
+package M0_Introduction;
 import java.util.Scanner;
 
 public class LockLifter {

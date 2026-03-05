@@ -1,5 +1,5 @@
-package cs260.queueTips.mod5;
-import cs260.queueTips.mod4.LinkedList;
+package M5_Stacks;
+import M4_LinkedLists.LinkedList;
 
 import java.io.*;
 
@@ -47,7 +47,10 @@ public class Stack<E> implements Serializable, Cloneable {
      * O(1)
      **/
     public E peek() {
-        return list.iterator().next();
+        if (isEmpty()) {
+            throw new NullPointerException("Stack is empty");
+        }
+        return list.get(0);
     }
 
     public int size() {

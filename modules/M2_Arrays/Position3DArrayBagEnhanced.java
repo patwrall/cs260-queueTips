@@ -3,8 +3,8 @@
  * CS260 - Lab 2
  * */
 
-package cs260.queueTips.mod2;
-import cs260.queueTips.mod1.Position3D;
+package M2_Arrays;
+import M1_OOP.Position3D;
 
 /** Lab 2: Position3D Enhancements
 

@@ -1,4 +1,4 @@
-package cs260.queueTips.mod3;
+package M3_Searching;
 import java.lang.reflect.Array;
 import java.io.FileNotFoundException;
 import java.io.File;

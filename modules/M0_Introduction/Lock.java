@@ -1,4 +1,4 @@
-package cs260.queueTips.mod0;
+package M0_Introduction;
 
 import java.util.Random;
 

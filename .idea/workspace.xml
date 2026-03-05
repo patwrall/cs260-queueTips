@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0a01116-a7ea-4552-8be5-388882aacded" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/cs260.QueueTips/cs260/queueTips/assets/SSN_NAME.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/cs260.QueueTips/cs260/queueTips/assets/SSN_NAME.csv:Zone.Identifier" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/cs260.QueueTips/cs260/queueTips/assets/stack.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs260.QueueTips.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cs260.QueueTips.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/mod0/Lock.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M0_Introduction/Lock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/mod0/LockLifter.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M0_Introduction/LockLifter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/mod1/Position3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M1_OOP/Position3D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/mod2/NewBagExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M2_Arrays/NewBagExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/mod2/Position3DArrayBag.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M2_Arrays/Position3DArrayBag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/mod2/Position3DArrayBagEnhanced.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M2_Arrays/Position3DArrayBagEnhanced.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/mod2/TheBagExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M2_Arrays/TheBagExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/mod3/ArrayBag.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M3_Searching/ArrayBag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/mod3/Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M3_Searching/Table.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/mod4/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M4_LinkedLists/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/mod5/ArrayStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M5_Stacks/ArrayStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/mod5/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M5_Stacks/Stack.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3ARz7omlSTeGcYHNdsVhadD7Sc1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArrayStack.executor": "Run",
+    "Application.LinkedList.executor": "Run",
+    "Application.Stack.executor": "Run",
+    "Application.TheBagExample.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/pat/Projects/cs260-queueTips/cs260.QueueTips.iml",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.tools",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/modules/assets" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.138" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.29346.138" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0a01116-a7ea-4552-8be5-388882aacded" name="Changes" comment="" />
+      <created>1756227578837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756227578837</updated>
+      <workItem from="1772570012927" duration="1552000" />
+      <workItem from="1772571591247" duration="49000" />
+      <workItem from="1772571651703" duration="1031000" />
+      <workItem from="1772683094658" duration="276000" />
+      <workItem from="1772683392011" duration="320000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

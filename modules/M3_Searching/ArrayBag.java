@@ -1,4 +1,4 @@
-package cs260.queueTips.mod3;
+package M3_Searching;
 
 /*
     Ellie Pike - pikeas01@pfw.edu
