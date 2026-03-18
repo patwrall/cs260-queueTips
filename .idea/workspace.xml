@@ -2,54 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0a01116-a7ea-4552-8be5-388882aacded" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/modules/M6_Queue/Queue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/M4_LinkedLists/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M4_LinkedLists/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/M5_Stacks/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M5_Stacks/Stack.java" afterDir="false" />
     </list>
-    <list id="31cdc1cb-57fd-45bc-9d77-507589f91623" name="Changes by Ethan Quispe" comment="">
-      <change beforePath="$PROJECT_DIR$/modules/M5_Stacks/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M5_Stacks/Stack.java" afterDir="false" />
-    </list>
-    <list id="294af2d1-a07b-4fd9-8a3c-2c9426f19ae4" name="Changes by selisine" comment="">
-      <change beforePath="$PROJECT_DIR$/modules/M5_Stacks/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M5_Stacks/Stack.java" afterDir="false" />
-    </list>
-    <list id="fb60ae71-d16f-489b-a12f-e5878e81edaf" name="Changes by sethe" comment="">
-      <change beforePath="$PROJECT_DIR$/modules/M5_Stacks/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M5_Stacks/Stack.java" afterDir="false" />
-    </list>
-    <list id="f184eebb-b833-4137-bd83-fb5c56617caa" name="Changes by tjric" comment="">
-      <change beforePath="$PROJECT_DIR$/modules/M4_LinkedLists/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M4_LinkedLists/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/M5_Stacks/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M5_Stacks/Stack.java" afterDir="false" />
-    </list>
+    <list id="6f2f81f5-2901-4a75-b7bd-5d1f8699d352" name="Changes by 15743" comment="" />
+    <list id="31cdc1cb-57fd-45bc-9d77-507589f91623" name="Changes by Ethan Quispe" comment="" />
+    <list id="294af2d1-a07b-4fd9-8a3c-2c9426f19ae4" name="Changes by selisine" comment="" />
+    <list id="fb60ae71-d16f-489b-a12f-e5878e81edaf" name="Changes by sethe" comment="" />
+    <list id="f184eebb-b833-4137-bd83-fb5c56617caa" name="Changes by tjric" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/modules/M4_LinkedLists/LinkedList.java">
-      <ranges>
-        <range start1="112" end1="113" start2="112" end2="112" changelist="c0a01116-a7ea-4552-8be5-388882aacded" />
-        <range start1="129" end1="130" start2="128" end2="129" changelist="f184eebb-b833-4137-bd83-fb5c56617caa" />
-        <range start1="182" end1="182" start2="181" end2="182" changelist="f184eebb-b833-4137-bd83-fb5c56617caa" />
-      </ranges>
-    </file>
-    <file path="$PROJECT_DIR$/modules/M5_Stacks/Stack.java">
-      <ranges>
-        <range start1="2" end1="2" start2="2" end2="3" changelist="31cdc1cb-57fd-45bc-9d77-507589f91623" />
-        <range start1="17" end1="31" start2="18" end2="19" changelist="c0a01116-a7ea-4552-8be5-388882aacded" />
-        <range start1="32" end1="32" start2="20" end2="21" changelist="c0a01116-a7ea-4552-8be5-388882aacded" />
-        <range start1="68" end1="70" start2="57" end2="64" changelist="c0a01116-a7ea-4552-8be5-388882aacded" />
-        <range start1="74" end1="75" start2="68" end2="68" changelist="294af2d1-a07b-4fd9-8a3c-2c9426f19ae4" />
-        <range start1="84" end1="85" start2="77" end2="77" changelist="fb60ae71-d16f-489b-a12f-e5878e81edaf" />
-        <range start1="101" end1="101" start2="93" end2="94" changelist="f184eebb-b833-4137-bd83-fb5c56617caa" />
-        <range start1="102" end1="102" start2="95" end2="98" changelist="f184eebb-b833-4137-bd83-fb5c56617caa" />
-        <range start1="103" end1="109" start2="99" end2="102" changelist="c0a01116-a7ea-4552-8be5-388882aacded" />
-        <range start1="111" end1="115" start2="104" end2="109" changelist="c0a01116-a7ea-4552-8be5-388882aacded" />
-        <range start1="116" end1="116" start2="110" end2="111" changelist="31cdc1cb-57fd-45bc-9d77-507589f91623" />
-      </ranges>
-    </file>
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -67,6 +42,7 @@
   "keyToString": {
     "Application.ArrayStack.executor": "Run",
     "Application.LinkedList.executor": "Run",
+    "Application.Queue.executor": "Run",
     "Application.Stack.executor": "Debug",
     "Application.TheBagExample.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -77,7 +53,8 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/pat/Projects/cs260-queueTips/cs260.QueueTips.iml",
+    "last_opened_file_path": "/home/pat/Projects/cs260-queueTips",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -93,8 +70,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.138" />
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.29346.138" />
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
       </set>
     </attachedChunks>
   </component>
@@ -111,6 +88,7 @@
       <workItem from="1772683094658" duration="276000" />
       <workItem from="1772683392011" duration="2933000" />
       <workItem from="1772743011332" duration="3040000" />
+      <workItem from="1773790438146" duration="2274000" />
     </task>
     <servers />
   </component>
@@ -143,5 +121,10 @@
         <PinnedItemInfo parentTag="M4_LinkedLists.LinkedList" memberName="size" />
       </pinned-members>
     </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="prev.next.next" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

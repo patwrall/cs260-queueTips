@@ -103,6 +103,7 @@ public class LinkedList<E> implements Cloneable, Iterable<E>, Serializable {
     public int size() {
         return size;
     }
+
     /**
      * Adds the element to the end of the list
      **/
@@ -110,6 +111,7 @@ public class LinkedList<E> implements Cloneable, Iterable<E>, Serializable {
 // For empty list, set head and tail to the new node
         if (head == null) {
             head = new Node<E>(element, null);
+            if (tail == null) tail = head;
         } else {
             tail.next = new Node<E>(element, null);
             tail = tail.next;
