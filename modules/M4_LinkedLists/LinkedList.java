@@ -140,18 +140,26 @@ public class LinkedList<E> implements Cloneable, Iterable<E>, Serializable {
      */
     public boolean removeAt(int index) {
         validateIndex(index);
-        if (size == 0) {
-            throw new NullPointerException("List is empty");
-        }
-        if (index == 0) { //Remove head
-            head = head.next;
+        if (size == 0) throw new NullPointerException("List is empty");
+
+        if (index == 0) {
+            if (size == 1) {
+                head = null;
+                tail = null;
+            } else {
+                head = head.next;
+            }
         } else {
             Node<E> previous = nodeAt(index - 1);
+            if (index == size - 1) {
+                tail = previous;
+            }
             previous.next = previous.next.next;
         }
         size--;
         return true;
     }
+
     /**
      * Removes the first occurrence of the element
      */

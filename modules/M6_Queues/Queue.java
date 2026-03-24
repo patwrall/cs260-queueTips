@@ -1,8 +1,7 @@
-package M6_Queue;
+package M6_Queues;
 import M4_LinkedLists.LinkedList;
 import M5_Stacks.Stack;
 import java.io.*;
-
 
 /*
 TEAM MEMBERS:
@@ -69,7 +68,7 @@ public class Queue<E> implements Serializable, Cloneable {
      **/
     public E peek() {
         if (isEmpty()) {
-            throw new NullPointerException("Stack is empty");
+            throw new NullPointerException("Queue is empty");
         }
         return list.get(0);
     }

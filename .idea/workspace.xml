@@ -2,15 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0a01116-a7ea-4552-8be5-388882aacded" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/modules/M6_Queue/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/M6_Queues/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/M6_Queues/Deck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/M6_Queues/PriorityQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/M4_LinkedLists/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M4_LinkedLists/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/M6_Queue/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M6_Queues/Queue.java" afterDir="false" />
     </list>
     <list id="6f2f81f5-2901-4a75-b7bd-5d1f8699d352" name="Changes by 15743" comment="" />
-    <list id="31cdc1cb-57fd-45bc-9d77-507589f91623" name="Changes by Ethan Quispe" comment="" />
-    <list id="294af2d1-a07b-4fd9-8a3c-2c9426f19ae4" name="Changes by selisine" comment="" />
-    <list id="fb60ae71-d16f-489b-a12f-e5878e81edaf" name="Changes by sethe" comment="" />
-    <list id="f184eebb-b833-4137-bd83-fb5c56617caa" name="Changes by tjric" comment="" />
+    <list id="da7b09d7-7d8b-4273-a51a-cccf2104f4a8" name="Changes by selisine" comment="">
+      <change beforePath="$PROJECT_DIR$/modules/M6_Queue/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M6_Queues/Queue.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +27,15 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/modules/M6_Queues/Queue.java">
+      <ranges>
+        <range start1="0" end1="1" start2="0" end2="1" changelist="c0a01116-a7ea-4552-8be5-388882aacded" />
+        <range start1="4" end1="5" start2="4" end2="4" changelist="da7b09d7-7d8b-4273-a51a-cccf2104f4a8" />
+        <range start1="71" end1="72" start2="70" end2="71" changelist="c0a01116-a7ea-4552-8be5-388882aacded" />
+      </ranges>
+    </file>
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -41,7 +52,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ArrayStack.executor": "Run",
+    "Application.Deck.executor": "Run",
     "Application.LinkedList.executor": "Run",
+    "Application.PriorityQueue.executor": "Run",
     "Application.Queue.executor": "Run",
     "Application.Stack.executor": "Debug",
     "Application.TheBagExample.executor": "Run",
@@ -70,8 +83,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.138" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.29346.138" />
       </set>
     </attachedChunks>
   </component>
@@ -89,6 +102,8 @@
       <workItem from="1772683392011" duration="2933000" />
       <workItem from="1772743011332" duration="3040000" />
       <workItem from="1773790438146" duration="2274000" />
+      <workItem from="1773947142624" duration="4395000" />
+      <workItem from="1774379151911" duration="7017000" />
     </task>
     <servers />
   </component>
@@ -98,25 +113,22 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/modules/M5_Stacks/Stack.java</url>
-          <line>54</line>
-          <properties class="M5_Stacks.Stack" method="reverse">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <condition expression="e.equals('E')" />
           <url>file://$PROJECT_DIR$/modules/M5_Stacks/Stack.java</url>
           <line>63</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/modules/M6_Queues/PriorityQueue.java</url>
+          <line>150</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <pin-to-top-manager>
       <pinned-members>
+        <PinnedItemInfo parentTag="M6_Queues.Deck" memberName="cards" />
         <PinnedItemInfo parentTag="M4_LinkedLists.LinkedList" memberName="head" />
         <PinnedItemInfo parentTag="M4_LinkedLists.LinkedList" memberName="size" />
       </pinned-members>
