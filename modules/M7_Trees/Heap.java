@@ -6,6 +6,21 @@ import java.util.Arrays;
 Heap implementation using an array. The heap behaves as a max-heap / priority queue.
 Only the max element is available for removal (at the root).
 */
+
+/*
+PART A:
+Observe the tree diagram above and answer the questions in a text file in your project:
+i.	Is this a max heap? Explain why or why not.
+    This is a max heap because each child node is smaller than the parent
+
+ii.	What are the formulae to find the child nodes and parent node from a given node index?
+    The formula to find the left child is (2 * index + 1)
+    The formula to find the right child is (2 * index + 2)
+    The formula to find the parent is floor((i - 1) / 2)
+
+iii.	Verify both answers with your instructor.
+ */
+
 public class  Heap<E extends Comparable<E>> {
     private static final int DEFAULT_CAPACITY = 100;
     private E[] heap;

@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0a01116-a7ea-4552-8be5-388882aacded" name="Changes" comment="04/07/2026 - TreeNode, and BST">
-      <change afterPath="$PROJECT_DIR$/modules/M7_Trees/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/M7_Trees/Heap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/M7_Trees/BTNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M7_Trees/TreeNode.java" afterDir="false" />
     </list>
     <list id="6f2f81f5-2901-4a75-b7bd-5d1f8699d352" name="Changes by 15743" comment="" />
-    <list id="ede1105b-5a0d-4c6f-8b2a-064bbd19bc75" name="Changes by Ethan Quispe" comment="" />
+    <list id="d02bda89-e1fd-46b3-a434-b318e1ef30c1" name="Changes by Ethan Quispe" comment="" />
     <list id="c5640696-eab1-4fd9-a767-935f5f8b91a1" name="Changes by tjric" comment="">
-      <change beforePath="$PROJECT_DIR$/modules/M7_Trees/BTNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M7_Trees/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/M7_Trees/Heap.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/M7_Trees/Heap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,28 +23,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/modules/M7_Trees/TreeNode.java">
-      <ranges>
-        <range start1="0" end1="0" start2="0" end2="2" changelist="c0a01116-a7ea-4552-8be5-388882aacded" />
-        <range start1="8" end1="9" start2="10" end2="11" changelist="c0a01116-a7ea-4552-8be5-388882aacded" />
-        <range start1="10" end1="11" start2="12" end2="13" changelist="c0a01116-a7ea-4552-8be5-388882aacded" />
-        <range start1="12" end1="13" start2="14" end2="15" changelist="c0a01116-a7ea-4552-8be5-388882aacded" />
-        <range start1="17" end1="17" start2="19" end2="20" changelist="c0a01116-a7ea-4552-8be5-388882aacded" />
-        <range start1="23" end1="24" start2="26" end2="27" changelist="c0a01116-a7ea-4552-8be5-388882aacded" />
-        <range start1="26" end1="27" start2="29" end2="30" changelist="c0a01116-a7ea-4552-8be5-388882aacded" />
-        <range start1="29" end1="30" start2="32" end2="33" changelist="c0a01116-a7ea-4552-8be5-388882aacded" />
-        <range start1="32" end1="33" start2="35" end2="36" changelist="c0a01116-a7ea-4552-8be5-388882aacded" />
-        <range start1="37" end1="38" start2="40" end2="41" changelist="c0a01116-a7ea-4552-8be5-388882aacded" />
-        <range start1="61" end1="62" start2="64" end2="65" changelist="c0a01116-a7ea-4552-8be5-388882aacded" />
-        <range start1="72" end1="73" start2="75" end2="76" changelist="c0a01116-a7ea-4552-8be5-388882aacded" />
-        <range start1="81" end1="82" start2="84" end2="85" changelist="c0a01116-a7ea-4552-8be5-388882aacded" />
-        <range start1="88" end1="88" start2="91" end2="105" changelist="c5640696-eab1-4fd9-a767-935f5f8b91a1" />
-        <range start1="92" end1="101" start2="109" end2="118" changelist="c0a01116-a7ea-4552-8be5-388882aacded" />
-        <range start1="170" end1="170" start2="187" end2="188" changelist="c0a01116-a7ea-4552-8be5-388882aacded" />
-      </ranges>
-    </file>
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -121,7 +96,7 @@
       <workItem from="1774379151911" duration="7017000" />
       <workItem from="1775160895601" duration="106000" />
       <workItem from="1775188992578" duration="24000" />
-      <workItem from="1775587986877" duration="6618000" />
+      <workItem from="1775587986877" duration="8085000" />
     </task>
     <servers />
   </component>
@@ -148,7 +123,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/modules/M7_Trees/Heap.java</url>
-          <line>199</line>
+          <line>214</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
